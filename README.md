@@ -32,12 +32,6 @@ You can get matplotlib and pandas by using pip:
 
 This is if you are running on IDE
 
-## Video
-
-Explanation
-
-https://youtu.be/ypQS0_qOTm4
-
 ## More info
 
 There will be more fixes to this project to be more diverse and more fluent
