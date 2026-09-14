@@ -1,0 +1,9 @@
+https://pandas.pydata.org/docs/
+
+https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
+
+https://matplotlib.org/stable/index.html
+
+https://youtu.be/VmbA0pi2cRQ?si=FUic4MrlnRPa5_1F
+
+The links above were sources I used to learn and understand in detail about the topic related to my project as well as documentation for the libaries.

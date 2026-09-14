@@ -1,0 +1,5 @@
+The Gradient Descent Update Rule was supposed to be:
+
+New Weights = Initial Weight - learning rate * gradient of that weight
+
+Looks like i put the multiplication symbol but it was a "typo"
